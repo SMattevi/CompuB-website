@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
+name: Paolo Martini
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: University of Brescia
 aliases:
-  - J. Smith
-  - J Smith
+  - P. Martini
+  - P Martini
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.unibs.it/en/ugov/person/199244
+  orcid: 0000-0002-0146-1031
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
