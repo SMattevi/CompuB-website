@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@SMattevi.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: SMattevi
-  twitter: SMattevi
-  youtube: SMattevi
+  email: paolo.martini@unibs.it
+  orcid: 0000-0002-0146-1031
+  google-scholar: 
+  github: 
+  twitter: 
+  youtube: 
 
 ### jekyll settings
 
