@@ -1,9 +1,9 @@
 ---
 ---
 
-# SMattevi's Website
+# Computational Biology lab Website
 
-An engaging 1-3 sentence description of your lab.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our group develops models for the integrative analysis of high throughput data. We aim at studying gene regulation and expression mechanisms in physiological conditions like development and pathological conditions like cancers.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is composed of computational biologists with diverse experience in genomics, transcriptomics, and the study of complex diseases such as cardiomyopathy and psychiatric disorders. We use computational tools to explore biological data and better understand the underlying mechanisms of health and disease.
 
 {%
   include button.html
