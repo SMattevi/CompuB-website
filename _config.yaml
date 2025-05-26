@@ -10,7 +10,7 @@ proofer: false
 links:
   email: paolo.martini@unibs.it
   orcid: 0000-0002-0146-1031
-  github: https://github.com/Martini-CompBio-DMMT
+  github: Martini-CompBio-DMMT
 
 ### jekyll settings
 
