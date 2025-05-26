@@ -1,174 +1,970 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.3390/cancers16020282
+  title: 'CSF-1R in Cancer: More than a Myeloid Cell Receptor'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
+  - Francesca Cersosimo
+  - Silvia Lonardi
+  - Cristina Ulivieri
+  - Paolo Martini
+  - Andrea Morrione
+  - William Vermi
+  - Antonio Giordano
+  - Emanuele Giurisato
+  publisher: Cancers
+  date: '2024-01-09'
+  link: https://doi.org/g9k9w9
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.xpro.2023.102638
+  title: Protocol for generation of a time-resolved cellular interactome during tissue
+    remodeling in adult mice
+  authors:
+  - Elena Groppa
+  - Lin Wei Tung
+  - Stefania Mattevi
+  - Morten Ritso
+  - Fabio M.V. Rossi
+  - Paolo Martini
+  publisher: STAR Protocols
+  date: '2023-12-01'
+  link: https://doi.org/g9k9xb
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.08.26.23294659
+  title: Polygenic scores of subcortical brain volumes as possible modulators of treatment
+    response in depression
+  authors:
+  - Vincenzo Oliva
+  - Alfonso Martone
+  - Giuseppe Fanelli
+  - Katharina Domschke
+  - Alessandra Minelli
+  - Massimo Gennarelli
+  - Paolo Martini
+  - Marco Bortolomasi
+  - Eduard Maron
+  - Alessio Squassina
+  - Claudia Pisanu
+  - Siegfried Kasper
+  - Joseph Zohar
+  - Daniel Souery
+  - Stuart Montgomery
+  - Diego Albani
+  - Gianluigi Forloni
+  - Panagiotis Ferentinos
+  - Dan Rujescu
+  - Julien Mendlewicz
+  - Diana De Ronchi
+  - Bernhard T Baune
+  - Alessandro Serretti
+  - Chiara Fabbri
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-08-28'
+  link: https://doi.org/g9k9xc
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15252/embr.202255235
+  title: Chemical conversion of human conventional <scp>PSCs</scp> to <scp>TSCs</scp>
+    following transient naive gene activation
+  authors:
+  - Irene Zorzan
+  - Riccardo Massimiliano Betto
+  - Giada Rossignoli
+  - Mattia Arboit
+  - Andrea Drusin
+  - Clelia Corridori
+  - Paolo Martini
+  - Graziano Martello
+  publisher: EMBO reports
+  date: '2023-02-27'
+  link: https://doi.org/g9k9xd
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes14030740
+  title: Transcriptional Profiling of Rat Prefrontal Cortex after Acute Inescapable
+    Footshock Stress
+  authors:
+  - Paolo Martini
+  - Jessica Mingardi
+  - Giulia Carini
+  - Stefania Mattevi
+  - Elona Ndoj
+  - Luca La Via
+  - Chiara Magri
+  - Massimo Gennarelli
+  - Isabella Russo
+  - Maurizio Popoli
+  - Laura Musazzi
+  - Alessandro Barbon
+  publisher: Genes
+  date: '2023-03-17'
+  link: https://doi.org/g9k9xf
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.03.07.530940
+  title: signifinder enables the identification of tumor cell states and cancer expression
+    signatures in bulk, single-cell and spatial transcriptomic data
+  authors:
+  - Stefania Pirrotta
+  - Laura Masatti
+  - "Anna Corr\xE0"
+  - Fabiola Pedrini
+  - Giovanni Esposito
+  - Paolo Martini
+  - Davide Risso
+  - Chiara Romualdi
+  - Enrica Calura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-03-10'
+  link: https://doi.org/g55qkd
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-36185-w
+  title: Defective excitation-contraction coupling and mitochondrial respiration precede
+    mitochondrial Ca2+ accumulation in spinobulbar muscular atrophy skeletal muscle
+  authors:
+  - Caterina Marchioretti
+  - Giulia Zanetti
+  - Marco Pirazzini
+  - Gaia Gherardi
+  - Leonardo Nogara
+  - Roberta Andreotti
+  - Paolo Martini
+  - Lorenzo Marcucci
+  - Marta Canato
+  - Samir R. Nath
+  - Emanuela Zuccaro
+  - Mathilde Chivet
+  - Cristina Mammucari
+  - Marco Pacifici
+  - Anna Raffaello
+  - Rosario Rizzuto
+  - Andrea Mattarei
+  - Maria A. Desbats
+  - Leonardo Salviati
+  - Aram Megighian
+  - "Gianni Sorar\xF9"
+  - Elena Pegoraro
+  - Elisa Belluzzi
+  - Assunta Pozzuoli
+  - Carlo Biz
+  - Pietro Ruggieri
+  - Chiara Romualdi
+  - Andrew P. Lieberman
+  - Gopal J. Babu
+  - Marco Sandri
+  - Bert Blaauw
+  - Manuela Basso
+  - Maria Pennuto
+  publisher: Nature Communications
+  date: '2023-02-06'
+  link: https://doi.org/g9k9xg
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.04.07.487453
+  title: Chemical conversion of human conventional Pluripotent Stem Cells to Trophoblast
+    Stem Cells
+  authors:
+  - Irene Zorzan
+  - Riccardo Massimiliano Betto
+  - Giada Rossignoli
+  - Mattia Arboit
+  - Andrea Drusin
+  - Paolo Martini
+  - Graziano Martello
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-08'
+  link: https://doi.org/g9k9xh
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms23052678
+  title: Zebrafish Mutant Lines Reveal the Interplay between nr3c1 and nr3c2 in the
+    GC-Dependent Regulation of Gene Transcription
+  authors:
+  - Alberto Dinarello
+  - Annachiara Tesoriere
+  - Paolo Martini
+  - Camilla Maria Fontana
+  - Davide Volpato
+  - Lorenzo Badenetti
+  - Francesca Terrin
+  - Nicola Facchinello
+  - Chiara Romualdi
+  - Oliana Carnevali
+  - Luisa Dalla Valle
+  - Francesco Argenton
+  publisher: International Journal of Molecular Sciences
+  date: '2022-02-28'
+  link: https://doi.org/g9k9xk
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-1261384/v1
+  title: Defective excitation-contraction coupling and mitochondrial respiration precede
+    mitochondrial Ca2+ accumulation in spinobulbar muscular atrophy skeletal muscle
+  authors:
+  - Caterina Marchioretti
+  - Giulia Zanetti
+  - Gaia Gherardi
+  - Leonardo Nogara
+  - Andreotti Roberta
+  - Paolo Martini
+  - Lorenzo Marcucci
+  - Marta Canato
+  - Samir Nath
+  - Emanuela Zuccaro
+  - Mathilde Chivet
+  - Cristina Mammucari
+  - Marco Pacifici
+  - Anna Raffaello
+  - Rosario Rizzuto
+  - Andrea Mattarei
+  - aram megighian
+  - "Gianni Sorar\xF9"
+  - Elena Pegoraro
+  - Elisa Belluzzi
+  - Assunta Pozzuoli
+  - Carlo Biz
+  - Pietro Ruggieri
+  - Chiara Romualdi
+  - Andrew Lieberman
+  - Gopal Babu
+  - Marco Sandri
+  - Bert Blaauw
+  - Manuela Basso
+  - Marco Pirazzini
+  - Maria Pennuto
+  publisher: Springer Science and Business Media LLC
+  date: '2022-01-27'
+  link: https://doi.org/g9k9xm
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms22147629
+  title: Whole Blood Transcriptome Characterization of 3xTg-AD Mouse and Its Modulation
+    by Transcranial Direct Current Stimulation (tDCS)
+  authors:
+  - Chiara Magri
+  - Erika Vitali
+  - Sara Cocco
+  - Edoardo Giacopuzzi
+  - Marco Rinaudo
+  - Paolo Martini
+  - Alessandro Barbon
+  - Claudio Grassi
+  - Massimo Gennarelli
+  publisher: International Journal of Molecular Sciences
+  date: '2021-07-16'
+  link: https://doi.org/g9k9xn
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.20.105841
+  title: Allelic expression analysis of Imprinted and X-linked genes from bulk and
+    single-cell transcriptomes
+  authors:
+  - Paolo Martini
+  - Gabriele Sales
+  - Linda Diamante
+  - Valentina Perrera
+  - Chiara Colantuono
+  - Sara Riccardo
+  - Davide Cacchiarelli
+  - Chiara Romualdi
+  - Graziano Martello
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-23'
+  link: https://doi.org/g9k9xp
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ijc.32935
+  title: "Expression profiles of PRKG1, SDF2L1 and PPP1R12A are predictive and prognostic\
+    \ factors for therapy response and survival in high\u2010grade serous ovarian\
+    \ cancer"
+  authors:
+  - Giuseppe Benvenuto
+  - Paola Todeschini
+  - Lara Paracchini
+  - Enrica Calura
+  - Robert Fruscio
+  - Chiara Romani
+  - Luca Beltrame
+  - Paolo Martini
+  - Antonella Ravaggi
+  - Lorenzo Ceppi
+  - Gabriele Sales
+  - Federica Donati
+  - Patrizia Perego
+  - Laura Zanotti
+  - Sara Ballabio
+  - Tommaso Grassi
+  - Martina Delle Marchette
+  - Germana Tognon
+  - Enrico Sartori
+  - Marco Adorni
+  - Franco Odicino
+  - Maurizio D'Incalci
+  - Eliana Bignotti
+  - Chiara Romualdi
+  - Sergio Marchini
+  publisher: International Journal of Cancer
+  date: '2020-03-13'
+  link: https://doi.org/gph9sp
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cells8121554
+  title: 'Transcriptional Characterization of Stage I Epithelial Ovarian Cancer: A
+    Multicentric Study'
+  authors:
+  - Enrica Calura
+  - Matteo Ciciani
+  - Andrea Sambugaro
+  - Lara Paracchini
+  - Giuseppe Benvenuto
+  - Salvatore Milite
+  - Paolo Martini
+  - Luca Beltrame
+  - Flaminia Zane
+  - Robert Fruscio
+  - Martina Delle Marchette
+  - Fulvio Borella
+  - Germana Tognon
+  - Antonella Ravaggi
+  - Dionyssios Katsaros
+  - Eliana Bignotti
+  - Franco Odicino
+  - "Maurizio D\u2019Incalci"
+  - Sergio Marchini
+  - Chiara Romualdi
+  publisher: Cells
+  date: '2019-12-01'
+  link: https://doi.org/gg4kn7
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-019-50282-1
+  title: Analysis of the circadian transcriptome of the Antarctic krill Euphausia
+    superba
+  authors:
+  - Alberto Biscontin
+  - Paolo Martini
+  - Rodolfo Costa
+  - Achim Kramer
+  - Bettina Meyer
+  - So Kawaguchi
+  - Mathias Teschke
+  - "Cristiano De Pitt\xE0"
+  publisher: Scientific Reports
+  date: '2019-09-25'
+  link: https://doi.org/gh2kdn
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkz324
+  title: 'MOSClip: multi-omic and survival pathway analysis for the identification
+    of survival associated gene and modules'
+  authors:
+  - Paolo Martini
+  - Monica Chiogna
+  - Enrica Calura
+  - Chiara Romualdi
   publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  date: '2019-05-03'
+  link: https://doi.org/g8md2x
+  orcid: 0000-0002-0146-1031
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1038/s41556-018-0254-5
+  title: Direct generation of human naive induced pluripotent stem cells from somatic
+    cells in microfluidics
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Stefano Giulitti
+  - Marco Pellegrini
+  - Irene Zorzan
+  - Paolo Martini
+  - Onelia Gagliano
+  - Margherita Mutarelli
+  - Michael Johannes Ziller
+  - Davide Cacchiarelli
+  - Chiara Romualdi
+  - Nicola Elvassore
+  - Graziano Martello
+  publisher: Nature Cell Biology
+  date: '2018-12-31'
+  link: https://doi.org/gfst94
+  orcid: 0000-0002-0146-1031
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1002/ijc.32288
+  title: "Multisite analysis of high\u2010grade serous epithelial ovarian cancers\
+    \ identifies genomic regions of focal and recurrent copy number alteration in\
+    \ 3q26.2 and 8q24.3"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
+  - Sara Ballabio
+  - Ilaria Craparotta
+  - Lara Paracchini
+  - Laura Mannarino
+  - Silvia Corso
+  - Maria Grazia Pezzotta
+  - Martina Vescio
+  - Robert Fruscio
+  - Chiara Romualdi
+  - Emanuele Dainese
+  - Lorenzo Ceppi
+  - Enrica Calura
+  - Silvana Pileggi
+  - Giulia Siravegna
+  - Linda Pattini
+  - Paolo Martini
+  - Martina delle Marchette
+  - Costantino Mangioni
+  - Antonio Ardizzoia
+  - Antonio Pellegrino
+  - Fabio Landoni
+  - Maurizio D'Incalci
+  - Luca Beltrame
+  - Sergio Marchini
+  publisher: International Journal of Cancer
+  date: '2019-04-26'
+  link: https://doi.org/g9k9xq
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkz007
+  title: Single cell analysis reveals the involvement of the long non-coding RNA Pvt1
+    in the modulation of muscle atrophy and mitochondrial network
+  authors:
+  - Enrico Alessio
+  - Lisa Buson
+  - Francesco Chemello
+  - Caterina Peggion
+  - Francesca Grespi
+  - Paolo Martini
+  - Maria L Massimino
+  - Beniamina Pacchioni
+  - Caterina Millino
+  - Chiara Romualdi
+  - Alessandro Bertoli
+  - Luca Scorrano
+  - Gerolamo Lanfranchi
+  - Stefano Cagnin
   publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  date: '2019-01-16'
+  link: https://doi.org/gfvmpx
+  orcid: 0000-0002-0146-1031
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.3389/fimmu.2019.00265
+  title: Transcriptome Profiles of Human Visceral Adipocytes in Obesity and Colorectal
+    Cancer Unravel the Effects of Body Mass Index and Polyunsaturated Fatty Acids
+    on Genes and Biological Processes Related to Tumorigenesis
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - "Manuela Del Corn\xF2"
+  - Antonella Baldassarre
+  - Enrica Calura
+  - Lucia Conti
+  - Paolo Martini
+  - Chiara Romualdi
+  - "Rosaria Var\xEC"
+  - Beatrice Scazzocchio
+  - Massimo D'Archivio
+  - Andrea Masotti
+  - Sandra Gessani
+  publisher: Frontiers in Immunology
+  date: '2019-02-19'
+  link: https://doi.org/g9k9xr
+  orcid: 0000-0002-0146-1031
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.celrep.2019.02.105
+  title: Transcriptomic Analysis of Single Isolated Myofibers Identifies miR-27a-3p
+    and miR-142-3p as Regulators of Metabolism in Skeletal Muscle
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Francesco Chemello
+  - Francesca Grespi
+  - Alessandra Zulian
+  - Pasqua Cancellara
+  - Etienne Hebert-Chatelain
+  - Paolo Martini
+  - Camilla Bean
+  - Enrico Alessio
+  - Lisa Buson
+  - Martina Bazzega
+  - Andrea Armani
+  - Marco Sandri
+  - Ruggero Ferrazza
+  - Paolo Laveder
+  - Graziano Guella
+  - Carlo Reggiani
+  - Chiara Romualdi
+  - Paolo Bernardi
+  - Luca Scorrano
+  - Stefano Cagnin
+  - Gerolamo Lanfranchi
+  publisher: Cell Reports
+  date: '2019-03-01'
+  link: https://doi.org/gfxkdj
+  orcid: 0000-0002-0146-1031
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.canlet.2016.12.017
+  title: 'Circulating miRNA landscape identifies miR-1246 as promising diagnostic
+    biomarker in high-grade serous ovarian carcinoma: A validation across two independent
+    cohorts'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Paola Todeschini
+  - Elisa Salviato
+  - Lara Paracchini
+  - Manuela Ferracin
+  - Marco Petrillo
+  - Laura Zanotti
+  - Germana Tognon
+  - Angela Gambino
+  - Enrica Calura
+  - Giulia Caratti
+  - Paolo Martini
+  - Luca Beltrame
+  - Lorenzo Maragoni
+  - Daniela Gallo
+  - Franco E. Odicino
+  - Enrico Sartori
+  - Giovanni Scambia
+  - Massimo Negrini
+  - Antonella Ravaggi
+  - Maurizio D'Incalci
+  - Sergio Marchini
+  - Eliana Bignotti
+  - Chiara Romualdi
+  publisher: Cancer Letters
+  date: '2017-03-01'
+  link: https://doi.org/f9xhtr
+  orcid: 0000-0002-0146-1031
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1371/journal.pone.0171908
+  title: 'KrillDB: A de novo transcriptome database for the Antarctic krill (Euphausia
+    superba)'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Gabriele Sales
+  - Bruce E. Deagle
+  - Enrica Calura
+  - Paolo Martini
+  - Alberto Biscontin
+  - "Cristiano De Pitt\xE0"
+  - So Kawaguchi
+  - Chiara Romualdi
+  - Bettina Meyer
+  - Rodolfo Costa
+  - Simon Jarman
+  publisher: PLOS ONE
+  date: '2017-02-10'
+  link: https://doi.org/f9qjws
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-16-1402
+  title: 'lncRNAs as Novel Indicators of Patients'' Prognosis in Stage I Epithelial
+    Ovarian Cancer: A Retrospective and Multicentric Study'
+  authors:
+  - Paolo Martini
+  - Lara Paracchini
+  - Giulia Caratti
+  - Maurizia Mello-Grand
+  - Robert Fruscio
+  - Luca Beltrame
+  - Enrica Calura
+  - Gabriele Sales
+  - Antonella Ravaggi
+  - Eliana Bignotti
+  - Franco E. Odicino
+  - Enrico Sartori
+  - Patrizia Perego
+  - Dionyssios Katsaros
+  - Ilaria Craparotta
+  - Giovanna Chiorino
+  - Stefano Cagnin
+  - Laura Mannarino
+  - Lorenzo Ceppi
+  - Costantino Mangioni
+  - Chiara Ghimenti
+  - Maurizio D'Incalci
+  - Sergio Marchini
+  - Chiara Romualdi
+  publisher: Clinical Cancer Research
+  date: '2017-04-30'
+  link: https://doi.org/f959pd
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18632/oncotarget.16526
+  title: NELL1, whose high expression correlates with negative outcomes, has different
+    methylation patterns in alveolar and embryonal rhabdomyosarcoma
+  authors:
+  - Lucia Tombolan
+  - Elena Poli
+  - Paolo Martini
+  - Angelica Zin
+  - Chiara Romualdi
+  - Gianni Bisogno
+  - Gerolamo Lanfranchi
+  publisher: Oncotarget
+  date: '2017-03-23'
+  link: https://doi.org/f98hvb
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/annonc/mdw210
+  title: 'A prognostic regulatory pathway in stage I epithelial ovarian cancer: new
+    hints for the poor prognosis assessment'
+  authors:
+  - E. Calura
+  - L. Paracchini
+  - R. Fruscio
+  - A. DiFeo
+  - A. Ravaggi
+  - J. Peronne
+  - P. Martini
+  - G. Sales
+  - L. Beltrame
+  - E. Bignotti
+  - G. Tognon
+  - R. Milani
+  - L. Clivio
+  - T. Dell'Anna
+  - G. Cattoretti
+  - D. Katsaros
+  - E. Sartori
+  - C. Mangioni
+  - L. Ardighieri
+  - M. D'Incalci
+  - S. Marchini
+  - C. Romualdi
+  publisher: Annals of Oncology
+  date: '2016-08-01'
+  link: https://doi.org/f89fb8
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12885-016-2936-3
+  title: Global DNA methylation profiling uncovers distinct methylation patterns of
+    protocadherin alpha4 in metastatic and non-metastatic rhabdomyosarcoma
+  authors:
+  - L. Tombolan
+  - E. Poli
+  - P. Martini
+  - A. Zin
+  - C. Millino
+  - B. Pacchioni
+  - B. Celegato
+  - G. Bisogno
+  - C. Romualdi
+  - A. Rosolen
+  - G. Lanfranchi
+  publisher: BMC Cancer
+  date: '2016-11-14'
+  link: https://doi.org/f8996w
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/annonc/mdv164
+  title: 'Profiling cancer gene mutations in longitudinal epithelial ovarian cancer
+    biopsies by targeted next-generation sequencing: a retrospective study'
+  authors:
+  - L. Beltrame
+  - M. Di Marino
+  - R. Fruscio
+  - E. Calura
+  - B. Chapman
+  - L. Clivio
+  - F. Sina
+  - C. Mele
+  - P. Iatropoulos
+  - T. Grassi
+  - V. Fotia
+  - C. Romualdi
+  - P. Martini
+  - M. Noris
+  - L. Paracchini
+  - I. Craparotta
+  - M. Petrillo
+  - R. Milani
+  - P. Perego
+  - A. Ravaggi
+  - A. Zambelli
+  - E. Ronchetti
+  - M. D'Incalci
+  - S. Marchini
+  publisher: Annals of Oncology
+  date: '2015-07-01'
+  link: https://doi.org/f7j8m3
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1755-0998.12408
+  title: "Pyrosequencing and<i>de novo</i>assembly of<scp>A</scp>ntarctic krill (<i><scp>E</scp>uphausia\
+    \ superba)</i>transcriptome to study the adaptability of krill to climate\u2010\
+    induced environmental changes"
+  authors:
+  - B. Meyer
+  - P. Martini
+  - A. Biscontin
+  - "C. De Pitt\xE0"
+  - C. Romualdi
+  - M. Teschke
+  - S. Frickenhaus
+  - L. Harms
+  - U. Freier
+  - S. Jarman
+  - S. Kawaguchi
+  publisher: Molecular Ecology Resources
+  date: '2015-04-09'
+  link: https://doi.org/f7vxhv
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijerph110908867
+  title: "Altered Gene Transcription in Human Cells Treated with Ludox\xAE Silica\
+    \ Nanoparticles"
+  authors:
+  - Caterina Fede
+  - Caterina Millino
+  - Beniamina Pacchioni
+  - Barbara Celegato
+  - Chiara Compagnin
+  - Paolo Martini
+  - Francesco Selvestrel
+  - Fabrizio Mancin
+  - Lucia Celotti
+  - Gerolamo Lanfranchi
+  - Maddalena Mognato
+  - Stefano Cagnin
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2014-08-28'
+  link: https://doi.org/f6jgkb
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0099593
+  title: Decellularized Allogeneic Heart Valves Demonstrate Self-Regeneration Potential
+    after a Long-Term Preclinical Evaluation
+  authors:
+  - Laura Iop
+  - Antonella Bonetti
+  - Filippo Naso
+  - Stefania Rizzo
+  - Stefano Cagnin
+  - Roberto Bianco
+  - Carlo Dal Lin
+  - Paolo Martini
+  - Helen Poser
+  - Paolo Franci
+  - Gerolamo Lanfranchi
+  - Roberto Busetto
+  - Michel Spina
+  - Cristina Basso
+  - Maurizio Marchini
+  - Alessandro Gandaglia
+  - Fulvia Ortolani
+  - Gino Gerosa
+  publisher: PLoS ONE
+  date: '2014-06-18'
+  link: https://doi.org/g9k9xs
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-15-S5-S3
+  title: 'timeClip: pathway analysis for time course data without replicates'
+  authors:
+  - Paolo Martini
+  - Gabriele Sales
+  - Enrica Calura
+  - Stefano Cagnin
+  - Monica Chiogna
+  - Chiara Romualdi
+  publisher: BMC Bioinformatics
+  date: '2014-05-01'
+  link: https://doi.org/gb8wn3
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0089755
+  title: Tissue-Specific Expression and Regulatory Networks of Pig MicroRNAome
+  authors:
+  - Paolo Martini
+  - Gabriele Sales
+  - Mattia Brugiolo
+  - Alessandro Gandaglia
+  - Filippo Naso
+  - "Cristiano De Pitt\xE0"
+  - Michele Spina
+  - Gino Gerosa
+  - Francesco Chemello
+  - Chiara Romualdi
+  - Stefano Cagnin
+  - Gerolamo Lanfranchi
+  publisher: PLoS ONE
+  date: '2014-04-03'
+  link: https://doi.org/g35vz4
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gku354
+  title: 'Wiring miRNAs to pathways: a topological approach to integrate miRNA and
+    mRNA expression profiles'
+  authors:
+  - Enrica Calura
+  - Paolo Martini
+  - Gabriele Sales
+  - Luca Beltrame
+  - Giovanna Chiorino
+  - "Maurizio D\u2019Incalci"
+  - Sergio Marchini
+  - Chiara Romualdi
+  publisher: Nucleic Acids Research
+  date: '2014-05-06'
+  link: https://doi.org/f589m7
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gks866
+  title: 'Along signal paths: an empirical gene set approach exploiting pathway topology'
+  authors:
+  - Paolo Martini
+  - Gabriele Sales
+  - M. Sofia Massa
+  - Monica Chiogna
+  - Chiara Romualdi
+  publisher: Nucleic Acids Research
+  date: '2012-09-21'
+  link: https://doi.org/gbcbh5
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkt386
+  title: 'Graphite Web: web tool for gene set analysis exploiting pathway topology'
+  authors:
+  - Gabriele Sales
+  - Enrica Calura
+  - Paolo Martini
+  - Chiara Romualdi
+  publisher: Nucleic Acids Research
+  date: '2013-05-10'
+  link: https://doi.org/f48c33
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-13-0360
+  title: miRNA Landscape in Stage I Epithelial Ovarian Cancer Defines the Histotype
+    Specificities
+  authors:
+  - Enrica Calura
+  - Robert Fruscio
+  - Lara Paracchini
+  - Eliana Bignotti
+  - Antonella Ravaggi
+  - Paolo Martini
+  - Gabriele Sales
+  - Luca Beltrame
+  - Luca Clivio
+  - Lorenzo Ceppi
+  - Mariacristina Di Marino
+  - Ilaria Fuso Nerini
+  - Laura Zanotti
+  - Duccio Cavalieri
+  - Giorgio Cattoretti
+  - Patrizia Perego
+  - Rodolfo Milani
+  - Dionyssios Katsaros
+  - Germana Tognon
+  - Enrico Sartori
+  - Sergio Pecorelli
+  - Costantino Mangioni
+  - Maurizio D'Incalci
+  - Chiara Romualdi
+  - Sergio Marchini
+  publisher: Clinical Cancer Research
+  date: '2013-07-31'
+  link: https://doi.org/f45ws9
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms141123160
+  title: Systems Biology Approach to the Dissection of the  Complexity of Regulatory
+    Networks in the S. scrofa Cardiocirculatory System
+  authors:
+  - Paolo Martini
+  - Gabriele Sales
+  - Enrica Calura
+  - Mattia Brugiolo
+  - Gerolamo Lanfranchi
+  - Chiara Romualdi
+  - Stefano Cagnin
+  publisher: International Journal of Molecular Sciences
+  date: '2013-11-21'
+  link: https://doi.org/f5mc54
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s121115947
+  title: 'Overview of Micro- and Nano-Technology Tools for Stem Cell Applications:
+    Micropatterned and Microelectronic Devices'
+  authors:
+  - Stefano Cagnin
+  - Elisa Cimetta
+  - Carlotta Guiducci
+  - Paolo Martini
+  - Gerolamo Lanfranchi
+  publisher: Sensors
+  date: '2012-11-19'
+  link: https://doi.org/gbcbf2
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-12-92
+  title: 'Statistical Test of Expression Pattern (STEPath): a new strategy to integrate
+    gene expression data with genomic information in individual and meta-analysis
+    studies'
+  authors:
+  - Paolo Martini
+  - Davide Risso
+  - Gabriele Sales
+  - Chiara Romualdi
+  - Gerolamo Lanfranchi
+  - Stefano Cagnin
+  publisher: BMC Bioinformatics
+  date: '2011-04-11'
+  link: https://doi.org/dw3rzj
+  orcid: 0000-0002-0146-1031
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s90403122
+  title: 'Overview of Electrochemical DNA Biosensors: New Approaches to Detect the
+    Expression of Life'
+  authors:
+  - Stefano Cagnin
+  - Marcelo Caraballo
+  - Carlotta Guiducci
+  - Paolo Martini
+  - Marty Ross
+  - Mark SantaAna
+  - David Danley
+  - Todd West
+  - Gerolamo Lanfranchi
+  publisher: Sensors
+  date: '2009-04-24'
+  link: https://doi.org/b65swt
+  orcid: 0000-0002-0146-1031
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +980,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +996,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
