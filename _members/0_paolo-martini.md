@@ -6,6 +6,7 @@ affiliation: University of Brescia
 aliases:
   - P. Martini
   - P Martini
+  - Paolo Martini
 links:
   home-page: https://www.unibs.it/en/ugov/person/199244
   orcid: 0000-0002-0146-1031
