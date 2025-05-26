@@ -20,7 +20,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="phone"
-  text="030 3717316
+  text="030 3717316"
   link="+39-0303717316"
 %}
 {%
