@@ -1,10 +1,12 @@
 - title: ASTRA
   subtitle: Allele Specific Transcriptional Regulation Analysis
+  group: featured
   image: images/photo.jpg
   link: https://github.com/SMattevi/ASTRA_bulk_pipeline
   description: ASTRA enables the integrated analysis of allele-specific expression and chromatin accessibility from raw RNA sequencing and/or chromatin accessibility data, in bulk or single-cell contexts.
   repo: greenelab/lab-website-template
   tags:
+    - resource
     - software
 
 #- title: Cool Package
