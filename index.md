@@ -3,8 +3,6 @@
 
 # Computational Biology lab Website
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {% include section.html %}
 
 ## Highlights
@@ -33,8 +31,6 @@ Our group develops models for the integrative analysis of high throughput data. 
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
