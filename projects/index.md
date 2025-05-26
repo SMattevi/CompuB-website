@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Every software, tool, and dataset we develop is completely open-source and accessible at no cost to users everywhere, allowing full freedom to use, adapt, and redistribute.
 
 {% include tags.html tags="publication, resource, website" %}
 
