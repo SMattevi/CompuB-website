@@ -7,7 +7,7 @@ principal-investigator:
   description: Principal Investigator
 
 lecturer:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-microscope
   description: Lecturer
   
 postdoc:
