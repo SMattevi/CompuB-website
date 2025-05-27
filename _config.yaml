@@ -2,6 +2,7 @@
 title: CompuB
 show-title: false
 subtitle: University of Brescia
+show-subtitle: false
 description: Our group develops models for the integrative analysis of high throughput data. We aim at studying gene regulation and expression mechanisms in physiological conditions like development and pathological conditions like cancers.
 header: images/background.jpg
 footer: images/background.jpg
