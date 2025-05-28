@@ -967,34 +967,110 @@
   orcid: 0000-0002-0146-1031
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1016/j.psychres.2024.116107
+  title: Genetic determinants of coping, resilience and self-esteem in schizophrenia
+    suggest a primary role for social factors and hippocampal neurogenesis
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - Francesco Mazzarotto
+  - Palmiero Monteleone
+  - Alessandra Minelli
+  - Stefania Mattevi
+  - Giammarco Cascino
+  - Paola Rocca
+  - Alessandro Rossi
+  - Alessandro Bertolino
+  - Eugenio Aguglia
+  - Carlo Altamura
+  - Mario Amore
+  - Antonello Bellomo
+  - Paola Bucci
+  - Enrico Collantoni
+  - Liliana Dell'Osso
+  - Fabio Di Fabio
+  - Andrea Fagiolini
+  - Luigi Giuliani
+  - Carlo Marchesi
+  - Giovanni Martinotti
+  - Cristiana Montemagni
+  - Federica Pinna
+  - Maurizio Pompili
+  - Antonio Rampino
+  - Rita Roncone
+  - Alberto Siracusano
+  - Antonio Vita
+  - Patrizia Zeppegno
+  - Silvana Galderisi
+  - Massimo Gennarelli
+  - Mario Maj
+  - Chiara Caulo
+  - Giulia D'Agostino
+  - Giulio Corrivetti
+  - Pierluigi Selvaggi
+  - Enrico D'Ambrosio
+  - Piergiuseppe Di Palo
+  - Anna Rita Atti
+  - Stefano Barlati
+  - Anna Ceraso
+  - Gabriele Nibbio
+  - Pasquale Paribello
+  - Luca Marras
+  - Bernardo Carpiniello
+  - Giuseppe Piegari
+  - Giulia Maria Giordano
+  - Pasquale Pezzella
+  - Antonio Melillo
+  - Carmen Concerto
+  - Ludovico Mineo
+  - Mauro Pettorruso
+  - Stefania Chiappini
+  - Francesco Di Carlo
+  - Mario Altamura
+  - Ivana Leccisotti
+  - Laura De Masi
+  - Pietro Calcagno
+  - Gianluca Serafini
+  - Costanza Arzani
+  - Ramona Di Stefano
+  - Francesca Pacitti
+  - Rodolfo Rossi
+  - Laura Giusti
+  - Silvia Mammarella
+  - Sasha Del Vecchio
+  - Matteo Marcatili
+  - Oscar Fusi
+  - Carla Gramaglia
+  - Debora Marangon
+  - Lucia Bestagini
+  - Paolo Meneguzzo
+  - Elena Tenconi
+  - Angela Favaro
+  - Maria Lidia Gerra
+  - Davide Fausto Borelli
+  - Francesca Magnani
+  - Barbara Carpita
+  - Ivan Mirko Cremone
+  - Giulia Amatori
+  - Antonino Buzzanca
+  - Marianna Frascarelli
+  - Tommaso Accinni
+  - Isabella Berardelli
+  - Denise Erbuto
+  - Anna Comparelli
+  - Alessandro Cuomo
+  - Arianna Goracci
+  - Simone Bolognesi
+  - Cinzia Niolu
+  - Giorgio Di Lorenzo
+  - Tommaso Jannini
+  - Claudio Brasso
+  - Vincenzo Villari
+  - Rodolfo Sgro
+  publisher: Psychiatry Research
+  date: ''
+  link: https://doi.org/g9mjn3
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  description: Genetic determinants of coping, resilience and self-esteem in schizophrenia
+    suggest a primary role for social factors and hippocampal neurogenesis.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0165178124003925-gr2.jpg
   plugin: sources.py
   file: sources.yaml
